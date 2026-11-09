@@ -1,0 +1,6 @@
+{
+  "name": "SmartExpense",
+  "description": "Smart expense tracker with receipt categorization, visual spending insights, multi-currency support, secure bank synchronization, and offline Room caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
